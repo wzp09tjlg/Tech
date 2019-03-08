@@ -14,4 +14,4 @@ record myself thing of tech, image or logic or some other things.
     2.每个礼拜都可以抽出时间来整理下这些文档
     
 #### 行动
-    1.初步建库 2019.3.8
+    1.初步建库 2019.3.8(处理异常)
